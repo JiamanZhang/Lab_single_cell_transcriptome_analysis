@@ -1,6 +1,6 @@
 # Lab_single_cell_transcriptome_analysis
 
-# Script for single cell transcriptome analysis by using R Seurat package. We used Seurat v3.2 package (https://satijalab.org/seurat/) in the R environment to conduct a follow-up study on the RNA count matrix data of SC samples.
+## Script for single cell transcriptome analysis by using R Seurat package. We used Seurat v3.2 package (https://satijalab.org/seurat/) in the R environment to conduct a follow-up study on the RNA count matrix data of SC samples.
 
 ## 1. System requirements
 - Hardware recommendation: CPU thread >=4, RAM >=16GB
